@@ -64,8 +64,8 @@ const UserLoginForm = () => {
 
   return (
     <LoginContainer>
-      <h2>Login Administrador</h2>
-      <span>Iniciar sesión como administrador</span>
+      <h2>Login</h2>
+      <span>Iniciar sesión con tus credenciales</span>
       <form onSubmit={handleSubmit}>
         <FormInput
           label="Usuario"
