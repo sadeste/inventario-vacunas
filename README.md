@@ -1,3 +1,17 @@
+# Admin User Credentials:
+username: admin
+password: admin1234
+
+# Employee user credentials:
+Employee 1
+username: eacevv
+password: eacevv123
+
+Employee 2
+username: eaguirre
+password: eaguirre123
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +19,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i`
+The npm i is used to install all dependencies or devDependencies from a package. json file.
 
 ### `npm start`
 
